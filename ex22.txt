@@ -1,0 +1,24 @@
+from  - indica din care modul se face importarea
+sys - modul
+os.path - modul
+import -  importeaza din modulul sys
+argv - functia sau parametru
+exists - functia care verifica daca exista un fisier sau nu , returneaza true sau false
+len - metoda/functia care returneaza numarul de elemente din obicet(lista, tuple,sir, string, bytes)
+print "" % (variables)- Python uses C-style string formatting to create new, formatted strings. 
+                        The "%" operator is used to format a set of variables enclosed in a "tuple"
+                        (a fixed size list), together with a format string, which contains normal text 
+                        together with "argument specifiers", special symbols like "%s" and "%d".
+                        
+raw_input() - represents a propmp to the user. Gets the input from the user and returns the data input
+              by the user in a string.
+open(filename) - deschide un fisier
+read() - citeste un fisier
+open(filename, 'w') -  deschide un fisier pentru scriere
+truncate()- 
+write() - scrie intr-un fisier
+close() - inchide un fisier
+def - defineste o functie
+seek()- moves the refernce poin to some part of the file, so you can read or write to that place
+readline() - citeste un rand dintr-un fisier
+return - functia returneaza un rezultat
